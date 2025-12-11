@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136725492744",
+    "project_id": "accountabuddy-761d1",
+    "storage_bucket": "accountabuddy-761d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136725492744:android:1d88d2fd9fe8c0d903cdbd",
+        "android_client_info": {
+          "package_name": "com.example.accountabuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmvp8e3CjHgoeaC1TRpYBvWn4EmmSNFWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
